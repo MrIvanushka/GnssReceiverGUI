@@ -1,0 +1,3 @@
+[submodule "GnssReceiver"]
+	path = GnssReceiver
+	url = https://github.com/MrIvanushka/GnssReceiver
